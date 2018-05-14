@@ -5,7 +5,7 @@ def addition(a,b):
 
 #sample input
 a = 2
-b = 3
+b = 4
 
 #prints the output
 print a+b
